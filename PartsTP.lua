@@ -1,7 +1,3 @@
---TOMQ-SCRIPT-2020
--- prevent from being ran more than once
-
-
 if not _G.ini then
 _G.ini = true
 
